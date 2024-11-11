@@ -1,5 +1,5 @@
-# Open Source Dash Cam
+# Open Dash Cam
 
-WIP
+## A foss dashcam designed for usability first.
 
 https://discord.gg/QxjbK2NRqR
